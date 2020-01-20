@@ -1,0 +1,55 @@
+DROP TABLE IF EXISTS tb1A;
+CREATE TABLE tb1A (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1A VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1B;
+CREATE TABLE tb1B (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1B VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1C;
+CREATE TABLE tb1C (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1C VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1D;
+CREATE TABLE tb1D (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1D VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1E;
+CREATE TABLE tb1E (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1E VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1F;
+CREATE TABLE tb1F (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1F VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1G;
+CREATE TABLE tb1G (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1G VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1H;
+CREATE TABLE tb1H (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1H VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1I;
+CREATE TABLE tb1I (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1I VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1J;
+CREATE TABLE tb1J (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1J VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1K;
+CREATE TABLE tb1K (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1K VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1L;
+CREATE TABLE tb1L (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1L VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1M;
+CREATE TABLE tb1M (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1M VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);
+
+DROP TABLE IF EXISTS tb1N;
+CREATE TABLE tb1N (number VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1N VALUES("A101","°­½Å¿ì",40),("A102","±è±â´ö",28),("A103","±è¹ÎÈ£",20),("A104","¹®¼Ò¸®",23),("A105","¹Ú¹®¼ö",35);

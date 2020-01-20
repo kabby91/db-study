@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS tb3;
+CREATE TABLE tb3 (number varchar(10),city varchar(10));
+insert into tb3 values('A101','서울');
+insert into tb3 values('A102','부산');
+insert into tb3 values('A103','대구');
+insert into tb3 values('A104','대전');
+insert into tb3 values('A105','인천');

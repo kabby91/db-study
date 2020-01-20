@@ -1,0 +1,5 @@
+drop table if exists tbj0;
+create table tbj0 (gnum int auto_increment primary key,thread varchar(30),date datetime,ipaddr varchar(20));
+
+drop table if exists tbj1;
+create table tbj1 (number int auto_increment primary key,name varchar(30),mess text,date datetime,gnum int,ipaddr varchar(20));
